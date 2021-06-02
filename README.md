@@ -199,3 +199,8 @@ You should see in your terminal a message indicating that the server is listenin
      ![Request: http://localhost:8000/submitstar](https://raw.githubusercontent.com/bilgin-kocak/udacity-create-you-own-private-blockchain/master/screenshots/bc4.PNG)
 6. Retrieve Stars owned by me
     ![Request: http://localhost:8000/blocks/<WALLET_ADDRESS>](https://raw.githubusercontent.com/bilgin-kocak/udacity-create-you-own-private-blockchain/master/screenshots/bc5.PNG)
+
+
+## Licensing, Authors, Acknowledgements
+I would like to thank Udacity for creating a platform to learn and upscale my blockchain skills.
+[https://www.bilginkocak.com/](https://www.bilginkocak.com/)
