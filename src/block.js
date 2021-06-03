@@ -41,10 +41,10 @@ class Block {
             // Save in auxiliary variable the current block hash
             let tempHash = self.hash;                   
             // Recalculate the hash of the Block
-            tempBlock = {
+            let tempBlock = {
                 hash : null,
-                body : self.body,
                 height: self.height,
+                body : self.body,
                 time: self.time,
                 previousBlockHash: self.previousBlockHash,
             }
